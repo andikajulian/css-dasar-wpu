@@ -1,0 +1,27 @@
+h1, h2 {
+    color: chocolate;
+}
+
+ul li a {
+    color: yellowgreen;
+}
+
+ol li a {
+    color: aqua;
+}
+
+#p1 {
+    color:blueviolet;
+}
+
+.p2 {
+    color: chartreuse;
+}
+
+.cetakTebal {
+    font-weight: bold;
+}
+
+p.cetakTebal {
+    font-size: 30px;
+}

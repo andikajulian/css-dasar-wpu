@@ -1,0 +1,15 @@
+/* p { color: aqua; }
+
+p { color:gold; } */
+
+#p1 { color: rgb(0, 255, 191); }
+
+p { color: cornflowerblue; }
+
+ul#menu li{
+    color: red;
+}
+
+ul#menu li.fav {
+    color: blue;
+}
